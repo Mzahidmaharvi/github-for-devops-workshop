@@ -1,0 +1,17 @@
+            
+            py --version
+            ls
+            dir
+            rm testing.py
+            ls
+            git init
+            ls
+           git status
+           dir
+           dir -force
+           rm testing.py
+           git restore testing.py
+           git add testing.py
+           git commit -m "add command file"
+           rm testing.py
+           git restore testing.py
