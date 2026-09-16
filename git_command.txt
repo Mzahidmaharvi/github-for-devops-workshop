@@ -15,3 +15,4 @@
            git commit -m "add command file"
            rm testing.py
            git restore testing.py
+           update today
