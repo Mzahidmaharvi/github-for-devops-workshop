@@ -16,3 +16,12 @@
            rm testing.py
            git restore testing.py
            update today
+           history
+           git add .
+           git commit -m "add comment"
+           git status
+           git remote -v
+           git remote add origin https://github.com/Mzahidmaharvi/github-for-devops-works…
+           git remote -v
+           git push origin master
+           git pull origin master
