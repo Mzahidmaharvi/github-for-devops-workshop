@@ -1,2 +1,6 @@
-print("hello world")
-print("hello friends")
+def hello():
+    """
+    this is code
+    """
+    return
+hello()
