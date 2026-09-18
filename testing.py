@@ -1,7 +1,10 @@
+"""Simple Hello World example."""
+
+
 def hello():
-    """
-    this is code
-    """
+    """Return a simple message."""
     return
+
+
 hello()
 
